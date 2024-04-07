@@ -18,7 +18,7 @@ Moreover, the fast-paced evolution of technology constantly presents new challen
 
 ## 🚀 Here we go! 
 
-As I dust off my coding skills and embrace the ever-evolving landscape of technology, I expect and interesting and engaging journey of growth and exploration. This account will serve as a living testament to my journey, documenting the projects, challenges, and triumphs along the way. From simple experiments to ambitious undertakings, each step will bring me closer to realizing my full potential as a software engineer once again.
+As I dust off my coding skills and embrace the ever-evolving landscape of technology, I expect an interesting and engaging journey of growth and exploration. This account will serve as a living testament to my journey, documenting the projects, challenges, and triumphs along the way. From simple experiments to ambitious undertakings, each step will bring me closer to realizing my full potential as a software engineer once again.
 
 ## 📧 Contact
 
