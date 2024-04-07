@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello there! 👋 After a hiatus from the software engineering world, I'm back and ready to dive into the exciting realm of coding once again. THis will be a journey of rediscovery, learning new technologies, and brushing up on old skills. But just like riding a bicycle 🚲, once you get back on, it all starts coming back to you.
+Hello there! 👋 After a hiatus from the software engineering world, I'm back and ready to dive into the exciting realm of coding once again. This will be a journey of rediscovery, learning new technologies, and brushing up on old skills. But just like riding a bicycle 🚲, once you get back on, it all starts coming back to you.
 
 ## Background
 
