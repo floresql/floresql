@@ -22,7 +22,7 @@ As I dust off my coding skills and embrace the ever-evolving landscape of techno
 
 ## 📧 Contact
 
-Have a question, suggestion, or just want to connect? Reach out to me via email contactme@floresql.com or connect with me on [LinkedIn](https://www.linkedin.com/in/floresql/).
+Have a question, suggestion, or just want to connect? Email me contactme@floresql.com or connect with me on [LinkedIn](https://www.linkedin.com/in/floresql/).
 
 
 
