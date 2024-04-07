@@ -6,7 +6,7 @@ Hello there! 👋 After a hiatus from the software engineering world, I'm back a
 
 ## Background
 
-In my previous life as a full-stack web developer, I thrived on the challenge of building interactive and engaging web applications. However, as time passed, I found myself leveraging technology to extract meaningful insights in roles as a business intelligence developer and manager of analytics. Here I discovered the power of tools like SQL and Python for data manipulation and analysis. Visualizing data has become second nature, allowing me to transform raw data into actionable insights.
+In my previous life as a full-stack web developer, I thrived on the challenge of building interactive and engaging web applications. However, as time passed, I found myself leveraging technology to extract meaningful insights in roles as a business intelligence developer and manager of analytics where I discovered the power of tools like SQL and Python for data manipulation and analysis. Visualizing data has become second nature, allowing me to transform raw data into actionable insights.
 
 Currently, I find myself immersed in the dynamic field of business planning & analysis, where I combine my technical expertise with strategic thinking to drive informed decision-making. It's a fascinating intersection of technology and business, where I leverage my coding skills alongside financial modeling and forecasting techniques. But is it enough?
 
