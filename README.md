@@ -1,6 +1,6 @@
 # Welcome to Eddie's GitHub Adventure! 🚀
 
-Howdy there! I'm Guillermo E. Flores, but you can just call me Eddie. Thanks for popping in! You’ve landed on an exciting stop in my career journey. It's that exhilarating moment when experience meets eagerness for something new, something thrilling, something... different!
+Hey there! I'm Guillermo E. Flores, but you can just call me Eddie. Thanks for popping in! You’ve landed on an exciting stop in my career journey. It's that exhilarating moment when experience meets eagerness for something new, something thrilling, something... different!
 
 In my professional voyage, I've always been on a quest to simplify the complex and banish the boring. There's an electrifying rush that comes from conquering challenges. It's where my passion thrives, where I can plunge into solving mind-bending technical puzzles and concocting ingenious solutions. I get a kick out of pushing boundaries, tinkering with new tech, and crafting a real impact through my work.
 
