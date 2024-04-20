@@ -1,4 +1,4 @@
-# Welcome to my GitHub Adventure! 🚀
+# Welcome to My GitHub Adventure! 🚀
 
 Hey there! I'm Guillermo E. Flores, but you can just call me Eddie. Thanks for popping in! You’ve landed on an exciting stop in my career journey. It's that exhilarating moment when experience meets eagerness for something new, something thrilling, something... different!
 
