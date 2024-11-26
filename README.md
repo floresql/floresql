@@ -7,10 +7,6 @@ Experienced in analytics, business intelligence, and software engineering with o
 
 I have worked on all aspects of the data lifecycle, from data extraction and transformation to visualization and reporting, utilizing Waterfall, Scrum, and Agile methodologies.
 
-Proficient in architecting scalable and cost-effective data solutions, I have built numerous ETL pipelines to automate data processing and integration across multiple environments.
-
-I have a passion for deriving actionable insights and continuously learning new technologies. I thrive in environments where I can contribute to multiple projects and leverage various technology stacks to deliver innovative solutions.
-
 ## What You'll Find Here 💼
 In this repository, you'll discover a collection of projects and code reflecting my journey, interests, and endeavors in the tech world. From web development snippets to data science experiments, each entry represents a step forward in my continuous learning process.
 
