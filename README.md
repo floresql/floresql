@@ -15,12 +15,6 @@ In this repository, you'll discover a collection of projects and code reflecting
 - **Business Intelligence**: Explore evolving examples of my work in business intelligence, as I delve deeper into data analysis and insights derivation. 
 - **Web Development**: Stay tuned for upcoming projects and contributions showcasing my proficiency in HTML, CSS, JavaScript, and more. 
 
-## Connect with Me 🤝
-I'm always eager to connect with like-minded individuals, collaborate on projects, or engage in discussions about tech, data, and beyond. Feel free to reach out to me via [contactme@floresql.com](mailto:contactme@floresql.com).
-
-## Let's Collaborate! ✨
-Whether you're a fellow enthusiast, a potential collaborator, or simply curious about my work, I invite you to explore this repository, engage with the content, and join me in the pursuit of knowledge and innovation.
-
 ---
 
 **Thank you for visiting!** 😊
