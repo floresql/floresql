@@ -9,9 +9,10 @@ continuously enhance systems to align with organizational goals. Passionate abou
 impactful solutions and contribute to your team’s success.
 
 ## Repository Highlights (Future Developments) 🔍
-- **Data Science**: Follow along with my journey in the field of data science, where I'll share projects inspired by coursework, challenges, and personal exploration.
-- **Business Intelligence**: Explore evolving examples of my work in business intelligence, as I delve deeper into data analysis and insights derivation. 
-- **Web Development**: Stay tuned for upcoming projects and contributions showcasing my proficiency in HTML, CSS, JavaScript, and more. 
+
+- **Data Science**: Join me on my data science journey! I’ll be sharing projects that apply concepts from coursework, challenges, and hands-on exploration, focusing on solving real-world problems with data.  
+- **Business Intelligence**: Dive into examples of my business intelligence work, showcasing how I turn raw data into actionable insights through analysis, dashboards, and visualizations.  
+- **Web Development**: Explore projects where I leverage HTML, CSS, JavaScript, and more to create solutions that make data more accessible and user-friendly.  
 
 ---
 
