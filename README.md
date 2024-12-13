@@ -14,10 +14,7 @@
 ---
 
 ## About Me 🌟
-With expertise in developing robust data pipelines, crafting optimized SQL queries, and creating insightful visualizations using tools like Tableau, Power BI,
-and advanced Excel, I transform complex datasets into actionable insights. Skilled in problem-solving, process automation, and ensuring data integrity, I
-continuously enhance systems to align with organizational goals. Passionate about leveraging technology to drive innovation, I’m excited to deliver
-impactful solutions and contribute to your team’s success.
+Innovative data professional with a passion for solving problems, improving processes, and driving cost savings by turning complex data into clear, actionable insights. Skilled in developing robust data pipelines, optimizing SQL queries, and creating insightful visualizations to drive decision-making. Strong focus on continuously learning new skills to deliver creative solutions.
 
 ## Repository Highlights (Future Developments) 🔍
 
