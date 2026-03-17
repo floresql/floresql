@@ -33,9 +33,7 @@ I thrive on solving problems and streamlining processes. If I have to do a task 
 
 "It always seems impossible until it’s done."
 
----
-
-### Technical Skills
+## Technical Skills
 
 *   **Languages:** SQL (PostgreSQL, SQL Server, Oracle, Teradata), Python (Scripting, Web Scraping, APIs)
 *   **Data Visualization:** Tableau, Power BI, SSRS, Advanced Excel
@@ -43,14 +41,9 @@ I thrive on solving problems and streamlining processes. If I have to do a task 
 *   **Cloud & Databases:** Snowflake, SQL Server, Oracle, Teradata
 *   **Analysis:** Predictive Modeling, Trend Analysis, Machine Learning, Requirements Gathering
 
----
-
-### Repository Highlights (Future Developments) 
+## Repository Highlights (Future Developments) 
 
 - **Data Science**: Join me on my data science journey! I’ll be sharing projects that apply concepts from coursework, challenges, and hands-on exploration, focusing on solving real-world problems with data.  
 - **Business Intelligence**: Dive into examples of my business intelligence work, showcasing how I turn raw data into actionable insights through analysis, dashboards, and visualizations.  
 - **Web Development**: Explore projects where I leverage HTML, CSS, JavaScript, and more to create solutions that make data more accessible and user-friendly.  
 
----
-
-**Thank you for visiting!** 
