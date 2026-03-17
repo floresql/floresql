@@ -27,10 +27,23 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 
----
 
 ## About Me
 I thrive on solving problems and streamlining processes. If I have to do a task once, I do it; if I have to do it twice, I automate it. If I run into a roadblock, I will experiment until I find a way out. If asked to do something I have never done before, I learn how it works and get it done.
+
+"It always seems impossible until it’s done."
+
+---
+
+### Technical Skills
+
+*   **Languages:** SQL (PostgreSQL, SQL Server, Oracle, Teradata), Python (Scripting, Web Scraping, APIs)
+*   **Data Visualization:** Tableau, Power BI, SSRS, Advanced Excel
+*   **ETL & Automation:** Alteryx, SSIS, Python, ETL Pipeline Development
+*   **Cloud & Databases:** Snowflake, SQL Server, Oracle, Teradata
+*   **Analysis:** Predictive Modeling, Trend Analysis, Machine Learning, Requirements Gathering
+
+---
 
 ## Repository Highlights (Future Developments) 
 
