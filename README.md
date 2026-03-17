@@ -45,7 +45,7 @@ I thrive on solving problems and streamlining processes. If I have to do a task 
 
 ---
 
-## Repository Highlights (Future Developments) 
+### Repository Highlights (Future Developments) 
 
 - **Data Science**: Join me on my data science journey! I’ll be sharing projects that apply concepts from coursework, challenges, and hands-on exploration, focusing on solving real-world problems with data.  
 - **Business Intelligence**: Dive into examples of my business intelligence work, showcasing how I turn raw data into actionable insights through analysis, dashboards, and visualizations.  
