@@ -29,7 +29,7 @@
 
 
 ## About Me
-I thrive on solving problems and streamlining processes. If I have to do a task once, I do it; if I have to do it twice, I automate it. If I run into a roadblock, I will experiment until I find a way out. If asked to do something I have never done before, I learn how it works and get it done.
+I’m naturally wired to analyze complex problems and strip away inefficiencies. This mindset allows me to see roadblocks as opportunities for experimentation, save time by automating repetitive tasks, and rapidly upskill to tackle any new challenge that comes my way.
 
 "It always seems impossible until it’s done."
 
