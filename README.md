@@ -29,7 +29,7 @@
 
 
 ## About Me
-I’m naturally wired to analyze complex problems and strip away inefficiencies. This mindset allows me to see roadblocks as opportunities for experimentation, save time by automating repetitive tasks, and rapidly upskill to tackle any new challenge that comes my way.
+I thrive on solving problems and streamlining processes. I have a natural drive to connect the dots, letting me see roadblocks as opportunities for experimentation. I’m at my best when I can dig in and find a better way to do things, especially if it involves  learning a new skill!
 
 "It always seems impossible until it’s done."
 
