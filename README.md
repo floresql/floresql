@@ -31,15 +31,6 @@
 ## About Me
 I thrive on solving problems and streamlining processes. My natural drive to connect the dots lets me see roadblocks as opportunities to experiment. And that's when I’m at my best, when I can dig in and figure things out, especially if it involves learning new skills!
 
-## Technical Skills
-
-*   **Languages:** SQL (PostgreSQL, SQL Server, Oracle, Teradata), Python (Scripting, Web Scraping, APIs)
-*   **Data Visualization:** Tableau, Power BI, SSRS, Advanced Excel
-*   **ETL & Automation:** Alteryx, SSIS, Python, ETL Pipeline Development
-*   **Cloud & Databases:** Snowflake, SQL Server, Oracle, Teradata
-*   **Analysis:** Predictive Modeling, Trend Analysis, Machine Learning, Requirements Gathering
-
-
 ## Current Focus
 
 *   **At Spectrum:** Developing ETL pipelines and automating recurring reporting to reduce manual effort and improve turnaround times.
