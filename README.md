@@ -24,8 +24,8 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Database](https://img.shields.io/badge/Normalization-red)](#)
-[![Schema](https://img.shields.io/badge/Star_Schema-lightyellow)](#)
-[![Schema](https://img.shields.io/badge/Snowflake_Schema-blue)](#)
+[![Schema](https://img.shields.io/badge/Schema-Star-ffcb3e)](#)
+[![Schema](https://img.shields.io/badge/Schema-Snowflake-blue)](#)
 
 ## About Me
 I thrive on solving problems and streamlining processes. My natural drive to connect the dots lets me see roadblocks as opportunities to experiment. And that's when I’m at my best, when I can dig in and figure things out, especially if it involves learning new skills!
