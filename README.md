@@ -31,9 +31,6 @@
 ## About Me
 I thrive on solving problems and streamlining processes. My natural drive to connect the dots lets me see roadblocks as opportunities to experiment. And that's when I’m at my best, when I can dig in and figure things out, especially if it involves learning new skills!
 
-"It always seems impossible until it’s done."
-
-
 ## Technical Skills
 
 *   **Languages:** SQL (PostgreSQL, SQL Server, Oracle, Teradata), Python (Scripting, Web Scraping, APIs)
