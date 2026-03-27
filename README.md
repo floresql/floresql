@@ -1,4 +1,5 @@
-# Welcome to My GitHub Repository!
+# Eddie | Data Analyst @ Spectrum | Aspiring Data Engineer
+
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -13,7 +14,7 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![AWS S3](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
@@ -27,11 +28,11 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 
-
 ## About Me
 I thrive on solving problems and streamlining processes. My natural drive to connect the dots lets me see roadblocks as opportunities to experiment. And that's when I’m at my best, when I can dig in and figure things out, especially if it involves learning new skills!
 
 "It always seems impossible until it’s done."
+
 
 ## Technical Skills
 
@@ -41,9 +42,16 @@ I thrive on solving problems and streamlining processes. My natural drive to con
 *   **Cloud & Databases:** Snowflake, SQL Server, Oracle, Teradata
 *   **Analysis:** Predictive Modeling, Trend Analysis, Machine Learning, Requirements Gathering
 
-## Repository Highlights (Future Developments) 
 
-- **Data Science**: Join me on my data science journey! I’ll be sharing projects that apply concepts from coursework, challenges, and hands-on exploration, focusing on solving real-world problems with data.  
-- **Business Intelligence**: Dive into examples of my business intelligence work, showcasing how I turn raw data into actionable insights through analysis, dashboards, and visualizations.  
-- **Web Development**: Explore projects where I leverage HTML, CSS, JavaScript, and more to create solutions that make data more accessible and user-friendly.  
+## Current Focus
 
+*   **At Spectrum:** Developing ETL pipelines and automating recurring reporting to reduce manual effort and improve turnaround times.
+*   **Education:** Pursuing a Master’s in Data Science to deepen expertise in machine learning and data engineering.
+
+
+## Education & Professional Development
+
+*   **Master of Science in Data Science** (In Progress)
+*   **MBA in Information Security Management**
+*   **Bachelor of Science in Computer Information Systems**
+*   **Certifications:** Power BI, Tableau
