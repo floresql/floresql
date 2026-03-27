@@ -21,9 +21,9 @@
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS_Redshift-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Database](https://img.shields.io/badge/Normalization-red)](#)
 [![Schema](https://img.shields.io/badge/Schema-Star-yellow)](#)
 [![Schema](https://img.shields.io/badge/Schema-Snowflake-blue)](#)
-[![Database](https://img.shields.io/badge/Normalization-red)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
