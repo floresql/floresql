@@ -18,7 +18,7 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![SQL](https://img.shields.io/badge/SQL-Window_Functions-blue)](#)
-[![SQL](https://img.shields.io/badge/SQL-CTE-green)](#)
+[![SQL](https://img.shields.io/badge/SQL-CTE-blue)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS_Redshift-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
