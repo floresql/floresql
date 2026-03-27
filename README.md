@@ -1,4 +1,4 @@
-# Eddie | Data Analyst | Aspiring Data Engineer
+# Eddie Flores | Data Analyst | Aspiring Data Engineer
 
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
