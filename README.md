@@ -17,7 +17,7 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-Window_Functions-blue)](#)
 [![SQL](https://img.shields.io/badge/SQL-CTE-red)](#)
-[![Schema](https://img.shields.io/badge/Schema-Star-blue)](#)
+[![Schema](https://img.shields.io/badge/Star-Schema-blue)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS_Redshift-%23FF9900.svg?logo=aws&logoColor=white)](#)
