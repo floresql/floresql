@@ -5,7 +5,6 @@
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS_S3-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS_Redshift-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
@@ -17,11 +16,10 @@
 [![SQL](https://img.shields.io/badge/SQL-Window_Functions-blue)](#)
 [![SQL](https://img.shields.io/badge/SQL-CTE-green)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS_Redshift-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
