@@ -32,9 +32,14 @@ I thrive on solving problems and streamlining processes. My natural drive to con
 
 ## Current Focus
 
-*   **At Spectrum:** Developing ETL pipelines and automating recurring reporting to reduce manual effort and improve turnaround times.
-*   **Education:** Pursuing a Master’s in Data Science, specializing in data engineering.
+**Spectrum** — Data Analyst
+- Building and automating ETL pipelines using Python, SQL, Snowflake, Redshift, and S3
+  to eliminate manual reporting workflows and improve data delivery turnaround times.
 
+**Education**
+- Pursuing an M.S. in Data Science at Regis University (Data Engineering specialization),
+  with coursework in data engineering, big data design patterns, statistical methods,
+  and data visualization — applied directly to production pipeline work at Spectrum.
 
 ## Education & Professional Development
 
