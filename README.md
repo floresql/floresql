@@ -28,7 +28,16 @@
 [![Database](https://img.shields.io/badge/Normalization-red)](#)
 
 ## About Me
-I thrive on solving problems and streamlining processes. My natural drive to connect the dots lets me see roadblocks as opportunities to experiment. And that's when I’m at my best, when I can dig in and figure things out, especially if it involves learning new skills!
+
+I thrive on solving problems and streamlining processes — whether that's
+replacing a brittle manual workflow with an automated Python pipeline, designing
+a structured data lake on S3, or building the data models that power business
+dashboards in Tableau. My drive to connect the dots means I see roadblocks as
+opportunities to dig in and figure things out, especially when it involves
+learning something new. That's what led me to data engineering: the intersection
+of clean architecture, reliable automation, and real business impact. I'm
+currently deepening that foundation through an M.S. in Data Science (Data
+Engineering specialization) at Regis University.
 
 ## Current Focus
 
