@@ -33,11 +33,11 @@ I thrive on solving problems and streamlining processes. My natural drive to con
 ## Current Focus
 
 *   **At Spectrum:** Developing ETL pipelines and automating recurring reporting to reduce manual effort and improve turnaround times.
-*   **Education:** Pursuing a Master’s in Data Science specializing in data engineering.
+*   **Education:** Pursuing a Master’s in Data Science, specializing in data engineering.
 
 
 ## Education & Professional Development
 
-*   **Master of Science in Data Science** (In Progress)
-*   **MBA in Information Security Management**
-*   **Bachelor of Science in Computer Information Systems**
+*   **MS, Data Science - Data Engineering** (In Progress)
+*   **MBA, Information Security Management**
+*   **BS, Computer Information Systems**
