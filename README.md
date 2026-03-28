@@ -29,7 +29,7 @@
 
 ## About Me
 
-I thrive on solving problems and streamlining processes — whether that's
+I thrive on solving problems and streamlining processes, whether that's
 replacing a brittle manual workflow with an automated Python pipeline, designing
 a structured data lake on S3, or building the data models that power business
 dashboards in Tableau. My drive to connect the dots means I see roadblocks as
