@@ -33,8 +33,7 @@ I thrive on solving problems and streamlining processes, whether that's
 replacing a brittle manual workflow with an automated Python pipeline, designing
 a structured data lake on S3, or building the data models that power business
 dashboards in Tableau. My drive to connect the dots means I see roadblocks as
-opportunities to dig in and figure things out, especially when it involves
-learning something new. 
+opportunities to dig in and figure things out, especially learning new skills. 
 
 That's what led me to data engineering: the intersection
 of clean architecture, reliable automation, and real business impact. I'm
